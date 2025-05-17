@@ -10,3 +10,4 @@ ipch
 /lib/boost*
 build
 .idea
+.vscode
